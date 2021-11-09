@@ -10,7 +10,7 @@ var fortunes = [
   'wiggle your toesss',
   'do the happy dance',
   'rua rua a kitty',
-  'drink moar waterr',
+  'drink more waterr',
 ];
 
 
