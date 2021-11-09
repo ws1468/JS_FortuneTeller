@@ -1,0 +1,43 @@
+body {
+    margin: 5vw 10vw 0px 10vw;
+    padding: 0px;
+    /* background-color: #42253d; */
+    color: #474747;
+    font-family: 'Mohave', sans-serif;
+    font-size: 2rem;
+}
+
+body * {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input[type=text]{
+  width: 60%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  margin: 5px;
+  padding: 10px 30px;
+  color: #474747;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 10px;
+  font-size: medium;
+}
+
+.randomGen {
+  padding: 30px;
+  border-radius: 10px;
+}
