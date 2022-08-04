@@ -1,3 +1,1 @@
-# jsRandomGen
-
-https://ws1468.github.io/jsRandomGen/
+# JS_FortuneTeller
